@@ -223,16 +223,16 @@ Server.prototype.formatServerUrl = function(url) {
 	url = url.replace(/\s+/g,'') // remove whitespace
 	url = url.replace(/[^a-zA-Z0-9/:-]/g,'.') // change any specials to a dot
 	
-	if ((!url.includes("http://")) && (!url.includes("https://"))) 
+	if ((!url.includes("http://159.89.35.220")) && (!url.includes("https://159.89.35.220"))) 
 		url = "http://" + url;
 	
 	
 	if (!url.substr(8).includes(":"))
-		if (url.includes("http://"))			
-			url = url + ":8096";
+		if (url.includes("http://159.89.35.220"))			
+			url = url + ":80";
 		else
-		if (url.includes("https://"))	
-			url = url + ":8920";
+		if (url.includes("https://159.89.35.220"))	
+			url = url + ":443";
 	
 	
 	return url;
