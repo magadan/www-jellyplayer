@@ -1,5 +1,5 @@
 # screenplay
-HTML5 Emby Client for WebOS LG TV's
+HTML5 SmartTV JellyFin Client for WebOS LG TV's
 
 The primary dev thread for this app can be found here:
 
