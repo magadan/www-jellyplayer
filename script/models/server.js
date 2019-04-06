@@ -105,7 +105,7 @@ Server.prototype.add = function() {
 							nodeName: "label",
 							className: "key-label",
 							htmlFor: "serverUrl",
-							text: " "
+							text: "159.89.35.220"
 						}, {
 							nodeName: "input",
 							className: "key-field",
