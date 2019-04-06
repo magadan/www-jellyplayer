@@ -10,3 +10,7 @@ Release notes/revision history for screenplay is located here:
 
 https://emby.media/community/index.php?/topic/40456-screenplay-for-webos-20-and-higher-tvs/page-1#entry378025
 
+Self hosted on GitHub Pages
+
+http://screenplay.magadan.com.br
+
