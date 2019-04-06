@@ -1,4 +1,5 @@
-# screenplay
+# screenplay for jellyfin
+
 HTML5 SmartTV JellyFin Client for WebOS LG TV's
 
 The primary dev thread for this app can be found here:
